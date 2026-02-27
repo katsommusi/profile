@@ -1,5 +1,6 @@
 # profile
 this is my personal profile
+
 this website was developed using the following technologies
 
 -html 5 
